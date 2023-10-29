@@ -19,8 +19,17 @@ body {
     display: inline-block;
 }
 
+.box.first {
+    margin-right: 72px;
+}
+
+.box.third {
+    margin-left: 72px;
+}
+
 #home-page {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
