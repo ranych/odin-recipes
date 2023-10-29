@@ -1,14 +1,12 @@
-/* li {
-    color: blue;
-    background-color: rgb(255, 255, 255);
-} */
-
 body {
     background-color: rgb(225, 225, 153);
 }
 
 .title {
     text-align: center;
+    color: rgb(0, 0, 255);
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .box {
@@ -31,5 +29,21 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    text-align: center;
+}
+
+.caption {
+    display: inline-block;
+    margin-top: 16px;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.border {
+    border-top: 1px solid grey;
+}
+
+.image {
+    display: block;
     text-align: center;
 }
