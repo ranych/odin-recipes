@@ -1,0 +1,26 @@
+/* li {
+    color: blue;
+    background-color: rgb(255, 255, 255);
+} */
+
+body {
+    background-color: rgb(225, 225, 153);
+}
+
+.title {
+    text-align: center;
+}
+
+.box {
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    border: 1px solid black;
+    padding: 48px;
+    display: inline-block;
+}
+
+#home-page {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
